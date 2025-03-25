@@ -1,0 +1,143 @@
+{
+    "estabelecimentos": [
+      {
+        "nome": "Cafeteria Coffee Studio",
+        "localizacao": {
+          "latitude": -23.550520,
+          "longitude": -46.633308
+        },
+        "endereco": "Rua da Paz, 123, São Paulo, SP",
+        "telefone": "(11) 1234-5678",
+        "quantidadeCuponsDisponiveis": 50
+      },
+      {
+        "nome": "Cafeteria Coffee Studio",
+        "localizacao": {
+          "latitude": -22.903539,
+          "longitude": -43.209587
+        },
+        "endereco": "Avenida Atlântica, 456, Rio de Janeiro, RJ",
+        "telefone": "(21) 9876-5432",
+        "quantidadeCuponsDisponiveis": 30
+      }
+    ],
+    "categoriasProdutos": [
+      {
+        "nome": "Comida",
+        "produtos": [
+          {
+            "nome": "Croissant",
+            "descricao": "Croissant de massa folhada com recheio de chocolate",
+            "preco": 8.50,
+            "imagem": "https://exemplo.com/croissant.jpg"
+          },
+          {
+            "nome": "Sanduíche de Frango",
+            "descricao": "Sanduíche de pão integral com peito de frango grelhado, alface e molho especial",
+            "preco": 15.00,
+            "imagem": "https://exemplo.com/sanduiche_frango.jpg"
+          },
+          {
+            "nome": "Pão de Queijo",
+            "descricao": "Pão de queijo mineiro, assado na hora",
+            "preco": 5.00,
+            "imagem": "https://exemplo.com/pao_queijo.jpg"
+          },
+          {
+            "nome": "Bolo de Cenoura",
+            "descricao": "Bolo de cenoura com cobertura de chocolate",
+            "preco": 10.00,
+            "imagem": "https://exemplo.com/bolo_cenoura.jpg"
+          }
+        ]
+      },
+      {
+        "nome": "Bebidas Quentes",
+        "produtos": [
+          {
+            "nome": "Café Expresso",
+            "descricao": "Café expresso forte e aromático",
+            "preco": 5.00,
+            "imagem": "https://exemplo.com/cafe_expresso.jpg"
+          },
+          {
+            "nome": "Capuccino",
+            "descricao": "Capuccino cremoso com leite vaporizado e café expresso",
+            "preco": 7.00,
+            "imagem": "https://images.unsplash.com/photo-1541167760496-1628856ab772?q=80&w=1937&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "nome": "Chocolate Quente",
+            "descricao": "Chocolate quente cremoso com chantilly",
+            "preco": 8.00,
+            "imagem": "https://exemplo.com/chocolate_quente.jpg"
+          },
+          {
+            "nome": "Chá de Camomila",
+            "descricao": "Chá de camomila com toque de mel",
+            "preco": 6.00,
+            "imagem": "https://exemplo.com/cha_camomila.jpg"
+          }
+        ]
+      },
+      {
+        "nome": "Bebidas Geladas",
+        "produtos": [
+          {
+            "nome": "Café Gelado",
+            "descricao": "Café gelado com leite e gelo",
+            "preco": 7.50,
+            "imagem": "https://exemplo.com/cafe_gelado.jpg"
+          },
+          {
+            "nome": "Smoothie de Frutas",
+            "descricao": "Smoothie de frutas vermelhas com banana e iogurte",
+            "preco": 9.00,
+            "imagem": "https://exemplo.com/smoothie_frutas.jpg"
+          },
+          {
+            "nome": "Limonada",
+            "descricao": "Limonada refrescante com hortelã",
+            "preco": 5.50,
+            "imagem": "https://exemplo.com/limonada.jpg"
+          },
+          {
+            "nome": "Milkshake de Ovomaltine",
+            "descricao": "Milkshake cremoso de Ovomaltine com sorvete de baunilha",
+            "preco": 12.00,
+            "imagem": "https://exemplo.com/milkshake_ovomaltine.jpg"
+          }
+        ]
+      },
+      {
+        "nome": "Doces",
+        "produtos": [
+          {
+            "nome": "Torta de Limão",
+            "descricao": "Torta de limão com recheio cremoso e cobertura de merengue",
+            "preco": 10.50,
+            "imagem": "https://exemplo.com/torta_limao.jpg"
+          },
+          {
+            "nome": "Brigadeiro",
+            "descricao": "Brigadeiro tradicional, feito com leite condensado e chocolate",
+            "preco": 4.00,
+            "imagem": "https://exemplo.com/brigadeiro.jpg"
+          },
+          {
+            "nome": "Cheesecake de Framboesa",
+            "descricao": "Cheesecake cremoso com calda de framboesa",
+            "preco": 12.00,
+            "imagem": "https://exemplo.com/cheesecake_frambuese.jpg"
+          },
+          {
+            "nome": "Donuts",
+            "descricao": "Donuts cobertos com açúcar e recheados com creme de baunilha",
+            "preco": 6.50,
+            "imagem": "https://exemplo.com/donuts.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  
